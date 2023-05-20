@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <div>
 <a href="https://github.com/piciliano">
@@ -7,6 +7,8 @@
 </div>
 
 ## Contatos:
+  
+  ![Snake animation](https://github.com/piciliano/piciliano/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
