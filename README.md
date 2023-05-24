@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Neto;I'm+29+years+old;I'm+from+Alagoas,+Brasil;studying+systems+development;)](https://git.io/typing-svg)
 
@@ -22,6 +22,6 @@
   
   
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
  
   ![Snake animation](https://github.com/piciliano/piciliano/blob/output/github-contribution-grid-snake.svg)
