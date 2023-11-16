@@ -1,27 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Neto;I'm+29+years+old;I'm+from+Alagoas,+Brasil;studying+systems+development;)](https://git.io/typing-svg)
+# Hi ✌, I'm Neto
+&nbsp;&nbsp;&nbsp;
 
+<p align="center">I'm 30 years old and I'm a huge technology enthusiast. I'm a full stack developer and I'm very happy to welcome you to my GitHub repository. ❤️</p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piciliano&theme=radical" /> 
+<img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piciliano&theme=radical" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+## My Skills
+
+### Frontend Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React.JS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+### Backend Development
+![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NEST.JS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+
+### Database
+![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+### Programming languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://https://www.linkedin.com/in/picilianovasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 <div align="center">
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/piciliano_vasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/picilianovasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+ <br>
 
-<div align="center">
-<a href="https://github.com/piciliano">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piciliano&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piciliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
-
-
-  
-  
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
- 
-  ![Snake animation](https://github.com/piciliano/piciliano/blob/output/github-contribution-grid-snake.svg)
